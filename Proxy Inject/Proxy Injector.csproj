@@ -23,7 +23,7 @@
     <ProjectGuid>{1F0158EA-2947-437A-AE86-252F18D4F5A7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Proxy_Inject</RootNamespace>
+    <RootNamespace>Proxy_Injector</RootNamespace>
     <AssemblyName>Proxy Injector</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <GeneratePkgDefFile>true</GeneratePkgDefFile>
